@@ -1,0 +1,31 @@
+@charset "UTF-8";
+body {
+    font: normal 1em Arial;
+    background-color: royalblue;
+}
+header {
+    color: #F0CF90;
+    text-align: center;
+}
+
+article {
+    background-color: #ffff;
+    margin: auto;
+    padding: 0.9em;
+    border-radius: 0.4em;
+    box-shadow: 2px 2px 3px #2b2a2ac9;
+    width: 500px;
+}
+select {
+    width: 12em;
+}
+footer {
+    color: #F0CF90;
+    text-align: center;
+    font-style: italic;    
+    margin-top: 1em;
+}
+a {
+    text-decoration: none;
+    color: #F0CF90;
+}
